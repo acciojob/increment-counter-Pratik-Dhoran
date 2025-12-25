@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+*{
+	padding :0px ;
+	margin : 0px ;
+}
+
+.navbar{
+	 display: flex ;
+	 background: black ;
+	 color: white ;
+	gap: 12px ;
+	padding: 6px ;
+	margin-bottom : 8px ;
+
+}
+
+.count{
+	margin-bottom : 8px ;
+}
+
+.btn {
+    margin-top: 10px;
+    padding: 6px 12px;
+}
