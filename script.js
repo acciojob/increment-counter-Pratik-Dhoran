@@ -3,6 +3,7 @@
 
 function increment(){
 
+	alert(c) ;
 	c++ ;
     document.getElementById("counter").innerText = c ;
 	
